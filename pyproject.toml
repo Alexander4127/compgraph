@@ -1,0 +1,9 @@
+[project]
+name = "Compgraph"
+version = "1.0"
+description = "Computational graph with map/reduce operations"
+requires-python = ">=3.10"
+authors = [
+  {email = "askutsakov@gmail.com"},
+  {name = "Alexander Kutsakov"}
+]
